@@ -54,9 +54,9 @@ list inside the `[buildout]` section of your `buildout.cfg`::
        https://dist.plone.org/release/5.2.4/versions.cfg
 
    
-#Added by LungaB for queue   
-queue-user-name=queue_consumer
-queue-user-password=queue_consumer_password
+   #Added by LungaB for queue   
+   queue-user-name=queue_consumer
+   queue-user-password=queue_consumer_password
 
        
    parts =
